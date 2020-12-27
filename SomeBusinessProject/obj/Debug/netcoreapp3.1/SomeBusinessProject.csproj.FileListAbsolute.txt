@@ -1,0 +1,8 @@
+D:\code\kennydust\FluentValidationFactoryUsecase\SomeBusinessProject\bin\Debug\netcoreapp3.1\SomeBusinessProject.deps.json
+D:\code\kennydust\FluentValidationFactoryUsecase\SomeBusinessProject\bin\Debug\netcoreapp3.1\SomeBusinessProject.dll
+D:\code\kennydust\FluentValidationFactoryUsecase\SomeBusinessProject\bin\Debug\netcoreapp3.1\SomeBusinessProject.pdb
+D:\code\kennydust\FluentValidationFactoryUsecase\SomeBusinessProject\obj\Debug\netcoreapp3.1\SomeBusinessProject.AssemblyInfoInputs.cache
+D:\code\kennydust\FluentValidationFactoryUsecase\SomeBusinessProject\obj\Debug\netcoreapp3.1\SomeBusinessProject.AssemblyInfo.cs
+D:\code\kennydust\FluentValidationFactoryUsecase\SomeBusinessProject\obj\Debug\netcoreapp3.1\SomeBusinessProject.csproj.CoreCompileInputs.cache
+D:\code\kennydust\FluentValidationFactoryUsecase\SomeBusinessProject\obj\Debug\netcoreapp3.1\SomeBusinessProject.dll
+D:\code\kennydust\FluentValidationFactoryUsecase\SomeBusinessProject\obj\Debug\netcoreapp3.1\SomeBusinessProject.pdb

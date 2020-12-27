@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\code\\kennydust\\FluentValidationFactoryUsecase\\SomeBusinessProject\\SomeBusinessProject.csproj": {}
+  },
+  "projects": {
+    "D:\\code\\kennydust\\FluentValidationFactoryUsecase\\SomeBusinessProject\\SomeBusinessProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\code\\kennydust\\FluentValidationFactoryUsecase\\SomeBusinessProject\\SomeBusinessProject.csproj",
+        "projectName": "SomeBusinessProject",
+        "projectPath": "D:\\code\\kennydust\\FluentValidationFactoryUsecase\\SomeBusinessProject\\SomeBusinessProject.csproj",
+        "packagesPath": "C:\\Users\\coderdust\\.nuget\\packages\\",
+        "outputPath": "D:\\code\\kennydust\\FluentValidationFactoryUsecase\\SomeBusinessProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\coderdust\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

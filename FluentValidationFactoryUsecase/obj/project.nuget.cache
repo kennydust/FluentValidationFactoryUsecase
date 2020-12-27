@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "s6JAxc2b3zdy+QFcntXuA0yc7vOTZ8Hcpk8zuoaRJUcycFlkyyz0TxlvRzWJpPaLjAw/ylzqdZdOXwtUDCfXSg==",
+  "success": true,
+  "projectFilePath": "D:\\code\\kennydust\\FluentValidationFactoryUsecase\\FluentValidationFactoryUsecase\\FluentValidationFactoryUsecase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\coderdust\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\coderdust\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.3.0\\fluentvalidation.aspnetcore.9.3.0.nupkg.sha512",
+    "C:\\Users\\coderdust\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.3.0\\fluentvalidation.dependencyinjectionextensions.9.3.0.nupkg.sha512",
+    "C:\\Users\\coderdust\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
